@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React for a personal Blog and practicing DSA on [LeetCode](https://leetcode.com/thepushkarp/).
 - 👯 I’m looking to collaborate on projects involving Mathematics and Python/JS.
 - 🤔 I’m looking for help with understanding Abstract Algebra and Number Theory.
-- 💬 Ask me about Python, Git, DSA and specially Mathematics.
+- 💬 I'd love to talk about Python, Git, DSA and specially Mathematics.
 - 📫 How to reach me: [@thepushkarp](http://twitter.com/thepushkarp/) on Twitter.
 - 😄 Pronouns: He/Him 👨
 - ⚡ Fun fact: I love to make sketches when bored 🎨.
