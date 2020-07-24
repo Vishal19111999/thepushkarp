@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to make sketches when bored 🎨.
 
 <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&hide_border=true&show_icons=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&hide_border=true&show_icons=true">
